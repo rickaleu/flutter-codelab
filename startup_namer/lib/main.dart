@@ -31,7 +31,7 @@ class RandomWordsState extends State<RandomWords> {
 
     return Scaffold (
       appBar: AppBar(
-        title: Text('Startup Name Generator'),
+        title: Text('Teste'),
       ),
       body: _buildSuggestions(),
     );
